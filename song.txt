@@ -7,3 +7,5 @@ second commit
 3rd commit
 4th commit
 final version
+
+New non conflict part
